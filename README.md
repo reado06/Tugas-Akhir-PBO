@@ -1,47 +1,52 @@
-### **Anggota Kelompok**
-###    Mubtaghi Ridho Robbi
-###    Nayaka Alfikri Januar
-###    Farifzal Nur Fadlillah
-###    Irzha Adji Prabowo
+# 🚲 CyclePro - Penjualan Sepeda 🚲
 
-# Program Penjualan Sepeda 
+**NAMA**: MUBTAGHI RIDHO ROBBI  
+**NPM**: 2310631250065
 
-Preview Portfolio : _Belum Tersedia_
+---
 
-## 🌟 Deskripsi
+## 📋 Deskripsi Project
 
-📋 Deskripsi Proyek
-CyclePro adalah aplikasi manajemen penjualan sepeda yang dirancang untuk memudahkan toko sepeda mengelola inventaris, transaksi penjualan, dan layanan pelanggan. Aplikasi ini dibangun menggunakan Java dan Swing untuk antarmuka grafis yang intuitif dan responsif.
+**CyclePro** adalah aplikasi manajemen penjualan sepeda berbasis Java yang dibangun menggunakan GUI Swing. Aplikasi ini dirancang untuk memudahkan toko sepeda dalam melakukan operasi sehari-hari, dari pengelolaan inventaris hingga transaksi penjualan.
 
-✨ Fitur Utama
-🔐 Sistem Autentikasi: Login aman dengan validasi username dan password
-🔄 Manajemen Reset Password: Fitur lupa password dengan pertanyaan keamanan
-📊 Dashboard Informatif: Pantau performa penjualan dan stok sepeda
-📝 Inventaris Sepeda: Tambah, edit, dan hapus data sepeda di inventaris
-💰 Proses Transaksi: Catat penjualan dengan cepat dan akurat
-👨‍💼 Manajemen Pelanggan: Kelola data pelanggan dan histori pembelian
-📈 Laporan Penjualan: Analisis data penjualan dengan laporan yang komprehensif
+---
 
-🧩 Komponen Aplikasi
-1. Login System
-Form login dengan validasi username dan password
-Fitur "Remember Me" untuk menyimpan sesi login
-Tampilan pesan error yang informatif
-2. Fitur Lupa Password
-Form reset password sederhana
-Validasi melalui pertanyaan keamanan
-Pembuatan password baru otomatis
-3. Manajemen Inventaris
-Tampilan katalog sepeda dengan filter dan pencarian
-Form input data sepeda baru
-Pembaruan stok otomatis setelah transaksi
-4. Modul Penjualan
-Antarmuka kasir yang intuitif
-Kalkulasi total dan diskon otomatis
-Cetak struk pembelian
+## 🛠️ Teknologi yang Digunakan
 
-🖥️ Teknologi yang Digunakan
-Bahasa Pemrograman: Java
-Framework UI: Java Swing
-Database: MySQL (dalam pengembangan)
-Arsitektur: MVC (Model-View-Controller)
+- **Java** - Bahasa pemrograman utama
+- **Java Swing** - Library GUI untuk antarmuka pengguna
+- **Object-Oriented Programming** - Paradigma pemrograman
+
+---
+
+## 🧩 Komponen Utama
+
+### 1. Sistem Autentikasi
+- Form login dengan validasi username/password
+- Fitur "Lupa Password" dengan pertanyaan keamanan
+- Opsi pembuatan akun baru
+
+### 2. Dashboard Admin
+- Tampilan inventaris sepeda
+- Ringkasan penjualan dan stok
+- Navigasi cepat ke semua fitur
+
+### 3. Manajemen Transaksi
+- Pencatatan penjualan 
+- Cetak struk
+- Riwayat transaksi
+
+### 4. Katalog Produk
+- Daftar sepeda dengan spesifikasi
+- Filter berdasarkan tipe, harga, dan merek
+- Update stok otomatis
+
+---
+
+## 📱 Screenshot Aplikasi
+
+![Login Screen](https://via.placeholder.com/600x400?text=Login+Screen)
+![Lupa Password](BELUM ADA)
+![Dashboard](BELUM ADA)
+
+---
