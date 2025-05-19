@@ -1,6 +1,4 @@
-# 🚲 CyclePro - Penjualan Sepeda 🚲
-
-**NAMA**: MUBTAGHI RIDHO ROBBI  
+# 🚲 CyclePro - Penjualan Sepeda 🚲 
 
 ---
 
