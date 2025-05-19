@@ -1,7 +1,6 @@
 # 🚲 CyclePro - Penjualan Sepeda 🚲
 
 **NAMA**: MUBTAGHI RIDHO ROBBI  
-**NPM**: 2310631250065
 
 ---
 
@@ -14,7 +13,8 @@
 ## 🛠️ Teknologi yang Digunakan
 
 - **Java** - Bahasa pemrograman utama
-- **Java Swing** - Library GUI untuk antarmuka pengguna
+- **Java Swing** - Library GUI untuk antarmuka pengguna yang lebih modern dan kaya fitur, dibangun di atas AWT.
+- **Java AWT (Abstract Window Toolkit)** - Menyediakan dasar untuk GUI di Java, termasuk komponen dasar, grafis, dan manajemen event.
 - **Object-Oriented Programming** - Paradigma pemrograman
 
 ---
@@ -26,7 +26,7 @@
 - Fitur "Lupa Password" dengan pertanyaan keamanan
 - Opsi pembuatan akun baru
 
-### 2. Dashboard Admin
+### 2. Dashboard
 - Tampilan inventaris sepeda
 - Ringkasan penjualan dan stok
 - Navigasi cepat ke semua fitur
@@ -43,20 +43,11 @@
 
 ---
 
-## 📱 Screenshot Aplikasi
-
-![Login Screen](https://via.placeholder.com/600x400?text=Login+Screen)
-
----
-
----
-
 ## 🚀 Fitur yang Akan Datang
 
 - [ ] Integrasi database (MySQL/PostgreSQL)
 - [ ] Sistem manajemen pengguna dengan multi-level akses
-- [ ] Modul laporan keuangan dan analitik
-- [ ] Sistem notifikasi stok menipis
-- [ ] Integrasi dengan e-commerce
+- [ ] Halaman Dashboard
+- [ ] Halaman Katalog Produk
 
 ---
