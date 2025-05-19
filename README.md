@@ -46,7 +46,17 @@
 ## 📱 Screenshot Aplikasi
 
 ![Login Screen](https://via.placeholder.com/600x400?text=Login+Screen)
-![Lupa Password](BELUM ADA)
-![Dashboard](BELUM ADA)
+
+---
+
+---
+
+## 🚀 Fitur yang Akan Datang
+
+- [ ] Integrasi database (MySQL/PostgreSQL)
+- [ ] Sistem manajemen pengguna dengan multi-level akses
+- [ ] Modul laporan keuangan dan analitik
+- [ ] Sistem notifikasi stok menipis
+- [ ] Integrasi dengan e-commerce
 
 ---
