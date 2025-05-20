@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class Login extends JFrame implements ActionListener{
+public class Login extends JFrame implements ActionListener {
 
     // * Deklarasi Komponen GUI
     JLabel lblJudul, lblUsername, lblPassword;
@@ -79,9 +79,9 @@ public class Login extends JFrame implements ActionListener{
             }
             System.out.println("Tombol Login diklik. Username: " + username + ", Password: " + password);
         } else if (e.getSource() == btnLupaPassword) {
-            JOptionPane.showMessageDialog(this, "Fitur Lupa Password belum diimplementasikan");
+            this.dispose();
+            new LupaPassword().setVisible(true); // * Buka Halaman Lupa Password
             System.out.println("Tombol Lupa Password diklik.");
-            // Pindah ke halaman Lupa Password ==> BELUM ADA
         } else if (e.getSource() == btnBuatAkun) {
             JOptionPane.showMessageDialog(this, "Fitur Buat Akun belum diimplementasikan.");
             System.out.println("Tombol Buat Akun diklik.");
