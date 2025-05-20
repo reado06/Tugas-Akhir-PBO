@@ -45,6 +45,7 @@
 
 - [ ] Integrasi database (MySQL/PostgreSQL)
 - [ ] Sistem manajemen pengguna dengan multi-level akses
+- [ ] Halaman Buat Akun
 - [ ] Halaman Dashboard
 - [ ] Halaman Katalog Produk
 
